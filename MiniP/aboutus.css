@@ -1,0 +1,413 @@
+
+
+.logo {
+  margin-left: 0px;
+  margin-top: 0px; /* Add margin-top to position the logo */
+  object-position: left;
+}
+
+.logo-txt {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+#Events {
+  margin-right: 10px;
+  color: #569bef;
+  text-decoration: underline;
+  text-decoration-color: #569bef;
+  text-underline-offset: 12px;
+  text-decoration-thickness: 3px;
+}
+
+.donate-now {
+  float: right;
+  padding: 15px;
+  font-size: 16px;
+  background-color: #1100ff;
+  margin-top: 25px;
+}
+ 
+.nav-menu {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 25px; 
+}
+
+.navbar-nav a:hover {
+  color: #569bef;
+  text-decoration: underline; 
+  text-decoration-color: #569bef;
+  text-underline-offset: 12px;
+  text-decoration-thickness: 3px;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 20px; /* Adjust margin between navbar items */
+  margin-top: 20px;
+}
+
+
+
+.form-container {
+  max-width: 500px; 
+  margin: 0 auto;
+  border: 1px solid #ced4da; 
+  border-radius: 10px; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.form-control {
+  border: 1px solid #ced4da; 
+  border-radius: .25rem; 
+}
+
+.form-control:focus {
+  border-color: #569bef; 
+  outline: 0; 
+  box-shadow: 0 0 0 0.25rem rgba(86, 155, 239, 0.25);
+}
+
+.btn-primary {
+  background-color: #569bef;
+  border-color: #569bef; 
+}
+
+.btn-primary:hover {
+  background-color: #ffffff; 
+  color: #000000;
+}
+
+.btn-primary:focus {
+  box-shadow: 0 0 0 0.25rem rgba(86, 155, 239, 0.5); /* Add box shadow on button focus */
+}
+
+
+.section3{
+	background-image: url('https://www.ourlittleroses.org/wp-content/uploads/2021/11/larm-rmah-AEaTUnvneik-unsplash-scaled.jpg') ;
+	 background-size: cover;
+	 height: 289px;
+}
+.section3-title{
+    color: white;
+    margin-left: 96px;
+    padding-top: 51px;
+    font-size: 56px;
+}
+.section4-border1,
+.section4-border2,
+.section4-border3 {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #7c7c7c;
+  border-radius: 10px;
+  width: 350px;
+}
+
+
+.tittle,
+.tittle1,
+.tittle2 {
+  color: rgb(0, 0, 0);
+  text-align: center; 
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.txt,
+.txt1,
+.txt2 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin: 10px;
+}
+
+.section5 {
+  position: relative;
+  padding: 96px 0;
+  background: url("https://www.ourlittleroses.org/wp-content/uploads/2021/11/larm-rmah-AEaTUnvneik-unsplash-scaled.jpg") no-repeat center;
+  background-size: cover;
+  z-index: 99;
+}
+
+.section5::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  background: rgba(21, 21, 21, 0.9);
+}
+
+.section5-tittle {
+  font-size: 28px;
+  color: white;
+  margin-top: 99px;
+  margin-left: 96px;
+}
+
+.underline {
+  border-bottom: 3px solid #569bef;
+  width: 10%;
+  margin-left: 96px;
+}
+
+.section5-txt {
+  color: #b7b7b7;
+  margin-top: 54px;
+  margin-left: 96px;
+}
+
+.section5-img {
+  width: 100%;
+  margin-top: 109px;
+  height: 386px;
+}
+
+.section5-readmore-btn {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #569bef;
+  border-radius: 50px;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  width: 150px;
+  background-color: #569bef;
+  margin-left: 96px;
+}
+
+.section6-tittle {
+  font-size: 38px;
+  font-weight: bold;
+  margin-top: 69px;
+  margin-left: 96px;
+}
+
+.section6-img1 {
+  margin-left: 96px;
+}
+
+.section6-img1-tittle {
+  text-decoration: none;
+  color: black;
+}
+
+.section6-img1-tittle:hover {
+  text-decoration: underline;
+}
+
+.section6-img1-date {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+
+.section6-img1-place {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+
+.section6-img1-ptag {
+  font-size: 13px;
+  color: #9a9191;
+}
+
+.section6-img1-date:hover {
+  text-decoration: underline;
+}
+
+.section6-img1-place:hover {
+  text-decoration: underline;
+}
+
+.section6-donate-btn {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #569bef;
+  border-radius: 50px;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  width: 150px;
+  background-color: #569bef;
+}
+
+.section6-tittle2 {
+  font-size: 38px;
+  font-weight: bold;
+  margin-top: 69px;
+  margin-left: 96px;
+}
+
+.section6-bg {
+  background-color: #ecf2f5;
+  height: 500px;
+  padding-top: 40px;
+  width: 85%;
+  margin-left: 94px !important;
+}
+
+.section6-img2-tittle {
+  text-decoration: none;
+  color: black;
+}
+
+.section6-img2-tittle:hover {
+  text-decoration: underline;
+}
+
+.section6-img2-date {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+
+.section6-img2-place {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+
+.section6-img2-date:hover {
+  text-decoration: underline;
+}
+
+.section6-img2-place:hover {
+  text-decoration: underline;
+}
+
+.section6-donate-btn2 {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #569bef;
+  border-radius: 50px;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  width: 150px;
+  background-color: #569bef;
+}
+
+.section6-padding {
+  padding-top: 60px;
+}
+
+
+.section9 {
+  background-color: #000;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.section9-content h2 {
+  font-size: 38px;
+  font-weight: bold;
+  margin-top: 69px;
+  margin-left: 96px;
+}
+
+.section9-content p {
+  font-size: 16px;
+  color: #9a9191;
+}
+
+.section9-social-icons {
+  margin-top: 20px;
+}
+
+.section9-social-icons a {
+  text-decoration: none;
+  color: white;
+  margin-right: 10px;
+}
+
+.section9-social-icons a:hover {
+  text-decoration: underline;
+}
+
+.section9-links h5 {
+  color: white;
+  font-weight: lighter;
+}
+
+.section9-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.section9-links ul li {
+  margin-bottom: 10px;
+}
+
+.section9-links ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+.section9-links ul li a:hover {
+  text-decoration: underline;
+}
+
+.section9-latest-news h5 {
+  color: white;
+  font-weight: lighter;
+}
+
+.section9-latest-news ul {
+  list-style: none;
+  padding: 0;
+}
+
+.section9-latest-news ul li {
+  margin-bottom: 10px;
+}
+
+.section9-latest-news ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+.section9-latest-news ul li a:hover {
+  text-decoration: underline;
+}
+
+.section9-latest-news .section9-img1-date {
+  color: #569bef;
+  font-size: 14px;
+}
+
+.section9-contact h5 {
+  color: white;
+  font-weight: lighter;
+}
+
+.section9-contact p {
+  font-size: 16px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.section9-contact form {
+  margin-top: 20px;
+}
+
+.section9-contact .input-group {
+  width: 100%;
+  max-width: 300px;
+}
+
+.section9-contact .form-control {
+  border-radius: 50px;
+}
+
+.section9-contact .btn {
+  border-radius: 50px;
+}

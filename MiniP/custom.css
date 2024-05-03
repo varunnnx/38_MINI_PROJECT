@@ -1,0 +1,1002 @@
+
+.section1{
+	background-color:#ff4800;
+}
+.section1-txt1{
+	margin-top: 10px;
+	position: absolute;
+}
+.section1-mail{
+	font-size: 15px;
+	text-decoration: none;
+	color: white;
+}
+.section1-phoneno{
+	margin-left: 198px;
+    margin-top: 10px;
+    color: white;
+}
+.logo-txt{
+	font-size: 28px;
+	font-weight: bold;
+}
+#home{
+	margin-right: 10px; 
+	color: #ff4800; 
+	text-decoration: underline;
+	text-decoration-color:   #ff4800;
+	text-underline-offset: 12px;
+	text-decoration-thickness: 3px;
+}
+
+.donate-now{
+	float: right;
+	padding: 15px;
+	font-size: 16px;
+	background-color: #262222;
+	margin-bottom: 0px;
+}
+.nav-menu{
+	font-size: 18px;
+	font-weight: 600;
+}
+.navbar-nav a:hover{
+  color: #ff4800;
+  text-decoration: underline;
+    text-decoration-color: #ff4800;
+      text-underline-offset: 12px;
+        text-decoration-thickness: 3px;
+}
+
+.img1{
+	position: absolute;
+}
+.demo{
+	color: white;
+}
+.carousel-content{	
+  color: white;
+  position: absolute;
+  top: 179px;
+  left: 178px;
+}
+
+.slider1, .slider2, .slider3{
+	width:100%;
+	height: 600px;
+}
+.slider1-title, .slider2-title, .slider3-title{
+    font-size:110px;
+}
+.slider1-txt, .slider2-txt, .slider3-txt{
+font-size:40px;
+}
+.carousel-indicators .active{
+color: #ff4800;
+}
+.section6-img1-place {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    margin-left: -73px;
+}
+.donate-btn{
+	border-width: 2px;
+    border-style: solid;
+    border-color: #ff4800;
+    border-radius: 50px;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 150px;
+    background-color:#ff4800;
+}
+.read-btn{
+	border-width: 2px;
+    border-style: solid;
+    border-color: #ff4800;
+    border-radius: 50px;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 150px;
+}
+
+.read-btn:hover{
+  color: #ff4800;
+   background-color:#ff4800;
+}
+
+.section4-border1{
+	border-width: 1px;
+	border-style: solid;
+	border-color: gray;
+	border-radius: 10px;
+	width: 350px;
+	background-color: #ff4800;
+}
+.section4-border1{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #ecf2f5;;
+	border-radius: 10px;
+	width: 350px;
+	background-color: #ff4800;
+}
+.tittle{
+color: white;
+text-align: center;
+font-size: 25px;
+font-weight: bold;
+}
+.txt{
+color: white;
+text-align: center;
+margin: 10px;
+}
+.section4-border2{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #ecf2f5;;
+	border-radius: 10px;
+	width: 350px;
+	background-color: #ecf2f5;;
+}
+.border2 :hover{
+	background-color: #ff4800;
+	color: white;
+}
+.tittle1{
+	text-align: center;
+font-size: 25px;
+font-weight: bold;
+}
+.txt1{
+text-align: center;
+margin: 10px;
+}
+.section4-border3{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #ecf2f5;;
+	border-radius: 10px;
+	width: 350px;
+	background-color: #ecf2f5;;
+}
+.border3 :hover{
+	background-color: #ff4800;
+	color: white;
+}
+.tittle2{
+	text-align: center;
+font-size: 25px;
+font-weight: bold;
+}
+.txt2{
+text-align: center;
+margin: 10px;
+}
+
+.section5{
+position: relative;
+    padding: 96px 0;
+    background: url("https://www.ourlittleroses.org/wp-content/uploads/2021/11/larm-rmah-AEaTUnvneik-unsplash-scaled.jpg") no-repeat center;
+    background-size: cover;
+    z-index: 99;
+}
+.section5::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background: rgba(21,21,21,.9);
+}
+.section5-tittle{
+	font-size: 28px;
+    color: white;
+    margin-top: 99px;
+    margin-left: 96px;
+  
+}
+.underline{
+	 border-bottom: 3px solid #ff4800;
+  width: 10%;
+   margin-left: 96px;
+}
+.section5-txt{
+	color: #b7b7b7;
+	margin-top: 54px;
+	 margin-left: 96px;
+}
+.section5-img{
+	width:100%; 
+	   margin-top: 109px;
+	   height: 386px;
+}
+.section5-readmore-btn{
+border-width: 2px;
+    border-style: solid;
+    border-color: #ff4800;
+    border-radius: 50px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 150px;
+    background-color:#ff4800;
+     margin-left: 96px;
+}
+.section6-tittle{
+	font-size: 38px;
+	font-weight: bold;
+    margin-top: 69px;
+    margin-left: 96px;
+}
+
+.section6-img1{
+	  margin-left: 96px;
+}
+.section6-img1-tittle{
+	text-decoration: none;
+	color: black;
+}
+.section6-img1-tittle :hover{
+	text-decoration: underline;
+}
+
+.section6-img1-date{
+text-decoration: none;
+	color: black;
+	font-size: 14px;
+}
+.section6-img1-place{
+text-decoration: none;
+	color: black;
+	font-size: 14px;
+	}
+.section6-img1-ptag{
+	font-size:13px;
+	color: #9a9191;
+}
+.section6-img1-date :hover{
+	text-decoration: underline;
+}
+.section6-img1-place :hover{
+	text-decoration: underline;
+}
+
+.section6-donate-btn{
+	border-width: 2px;
+    border-style: solid;
+    border-color: #ff4800;
+    border-radius: 50px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 150px;
+    background-color:#ff4800;
+    /* margin-left: 96px;*/
+}
+.section6-tittle2{
+	font-size: 38px;
+	font-weight: bold;
+    margin-top: 69px;
+    margin-left: 96px;
+}
+.section6-bg	{
+	    background-color: #ecf2f5;
+    height: 500px;
+   padding-top: 40px;
+    width: 85%;
+    margin-left: 94px !important;
+}
+.section6-img2-tittle{
+	text-decoration: none;
+	color: black;
+}
+.section6-img2-tittle :hover{
+	text-decoration: underline;
+}
+
+.section6-img2-date{
+text-decoration: none;
+	color: black;
+	font-size: 14px;
+}
+.section6-img2-place{
+text-decoration: none;
+	color: black;
+	font-size: 14px;
+	margin-left:-61px !important;
+
+}
+.section6-img2-date :hover{
+	text-decoration: underline;
+}
+.section6-img2-place :hover{
+	text-decoration: underline;
+}
+.section7-bg{
+	position: relative;
+	background-image: url('cause-bg.jpg.webp');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height:712px;
+	z-index: 99;
+}
+.section7-bg::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background: rgba(232,237,238,.8);
+}
+
+.section7-tittle{
+		font-size: 38px;
+	font-weight: bold;
+    margin-top: 69px;
+    margin-left: 96px;	
+        padding-top: 79px;
+}
+.section7-underline{
+	 border-bottom: 4px solid #ff4800;
+  width: 4%;
+   margin-left: 96px;
+}
+.section8-col2{
+	width: 165px;
+	margin-top: 131px;
+}
+.section8-underline{
+	 border-bottom: 4px solid #ff4800;
+  width: 10%;
+   /*margin-left: 123px;*/
+}
+.section8-text1{
+   text-align: center;
+    color: black;
+    font-size: 55px;
+    font-weight: 400
+ 
+}
+.section9{
+	position: relative;
+	background: url("https://www.ourlittleroses.org/wp-content/uploads/2021/11/larm-rmah-AEaTUnvneik-unsplash-scaled.jpg") no-repeat center;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height:580px;
+	z-index: 99;
+}
+.section9::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background: rgb(0 0 0 / 80%);
+}
+.section9-div2-text{
+	text-decoration: none; 
+	font-size:16px;
+	color: #9a9191; 
+	text-align: center; 
+	
+}
+.section9-div2 {
+	margin-bottom: 10px !important;
+}
+.section9-div2  a:hover {
+	/*background-color: #ff4800;*/
+	color: #ff4800;
+}
+.slider-img{
+	display: none;
+}
+
+
+
+@media only screen and (max-width: 451px) {
+	.section1{
+	background-color:#ff4800;
+	    width: 111%;
+}
+.section1-txt1, .section1-mail, .section1-phoneno {
+	display: none;
+}
+
+.donate-now{
+	display: none;
+}
+.logo-txt{
+	font-size: 23px;
+	font-weight: bold;
+	margin-top: 0px;
+}
+.navbar-toggler{
+	    margin-left: 146px
+}
+.slider1, .slider2, .slider3{
+	width:100%;
+    height: 253px;
+}
+.slider1-title, .slider2-title, .slider3-title{
+        font-size: 25px;
+    margin-top: -149px;
+    margin-left: -141px;
+}
+.slider1-txt, .slider2-txt, .slider3-txt{
+    font-size: 23px;
+    margin-left: -146px;
+}
+.slider1-ptag, .slider2-ptag, .slider3-ptag{
+display: none;
+}
+
+.donate-btn{
+	border-width: 2px;
+    border-style: solid;
+    border-color: #ff4800;
+    border-radius: 50px;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 150px;
+    background-color:#ff4800;
+        margin-left: -147px;
+    /* margin-bottom: 13px; */
+    margin-top: 61px;
+}
+.donate-btn-mblview{
+border-width: 2px;
+    border-style: solid;
+    border-color: #ff4800;
+    border-radius: 50px;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 150px;
+    background-color:#ff4800;
+    position: absolute;
+     top: 293px;
+    margin-left: 10px
+}
+.read-btn-mblview{
+border-width: 2px;
+    border-style: solid;
+    border-color: #ff4800;
+    border-radius: 50px;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 150px;
+    position: absolute;
+        top: 293px;
+    margin-left: 179px;
+}
+.section4-border1{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;	
+}
+.section4-border2{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;	
+}
+.section5-img{
+	    width: 123%;
+    margin-top: 38px;
+    height: 386px;
+      margin-left: -88px;
+	}
+.section5{
+position: relative;
+    padding: 96px 0;
+    background: url("https://www.ourlittleroses.org/wp-content/uploads/2021/11/larm-rmah-AEaTUnvneik-unsplash-scaled.jpg") no-repeat center;
+    background-size: cover;
+    z-index: 99;
+        padding-left: 93px;
+}
+.section5::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 112%;
+    height: 100%;
+    background: rgba(21,21,21,.9);
+}
+.section5-tittle{
+	    font-size: 25px;
+    color: white;
+    margin-top: 0px;
+       margin-left: -17px;
+    font-weight: bold;
+  
+}
+
+.section5-txt{
+	color: #b7b7b7;
+    margin-top: 27px;
+       text-align: left;
+    margin-left: -54px
+}
+.section5-readmore-btn{
+border-width: 2px;
+    border-style: solid;
+    border-color: #ff4800;
+    border-radius: 50px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 150px;
+    background-color:#ff4800;
+        margin-left: 49px;
+}
+.section4-border3{
+	margin-left: auto;
+	margin-right: auto;
+}
+.section6-tittle{
+	    font-size: 35px;
+    font-weight: bold;
+    margin-top: 34px;
+    margin-left: 19px;
+}
+.underline{
+	 border-bottom: 3px solid #ff4800;
+  width: 10%;
+   /*margin-left: 22px;*/
+}
+
+.section6-img1{
+	margin-left: 30px;
+}
+.section6-img1-txt{
+	    margin-left: -46px;
+}
+.section6-img1-tittle :hover{
+	text-decoration: underline;
+}
+
+.section6-img1-date{
+text-decoration: none;
+	color: black;
+	font-size: 14px;
+	margin-left: -62px;
+}
+.section6-img1-ptag{
+	font-size:13px;
+	color: #9a9191;
+	    margin-left: -67px
+}
+.section6-img1-date :hover{
+	text-decoration: underline;
+}
+.section6-img1-place :hover{
+	text-decoration: underline;
+}
+/*.section6-img1-place {
+margin-left:-73px;
+}
+*/
+.section6-donate-btn{
+	border-width: 2px;
+    border-style: solid;
+    border-color: #ff4800;
+    border-radius: 50px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 150px;
+    background-color:#ff4800;
+    /* margin-left: 96px;*/
+}
+.section6-tittle2{
+	font-size: 38px;
+	font-weight: bold;
+    margin-top: 69px;
+    margin-left: 96px;
+}
+.section6-bg	{
+	      background-color: #ecf2f5;
+    height: 500px;
+    padding-top: 40px;
+    width: 100%;
+    margin-left: 3px !important;
+}
+.section6-img2-tittle{
+	text-decoration: none;
+	color: black;
+}
+.section6-img2-tittle :hover{
+	text-decoration: underline;
+}
+
+.section6-img2-date{
+text-decoration: none;
+	color: black;
+	font-size: 14px;
+}
+.section6-img2-place{
+text-decoration: none;
+	color: black;
+	font-size: 14px;
+	margin-left:-31px !important;
+}
+.section6-img2-date :hover{
+	text-decoration: underline;
+}
+.section6-img2-place :hover{
+	text-decoration: underline;
+}
+
+.section6-tittle2{
+	font-size: 38px;
+	font-weight: bold;
+    margin-top: 69px;
+    margin-left: 19px;
+}
+.section7{
+	display: none;
+}
+.section8-col2{
+	width: 165px;
+	margin-top: 0px;
+	float: inline-start;
+}
+.section8-text1{
+   text-align: center;
+    color: black;
+    font-size: 55px;
+    font-weight: 400;
+    margin-top: 38px;
+ 
+}
+.section9{
+	position: relative;
+	background: url("https://www.ourlittleroses.org/wp-content/uploads/2021/11/larm-rmah-AEaTUnvneik-unsplash-scaled.jpg") no-repeat center;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height:1367px;
+	z-index: 99;
+}
+.section9::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background: rgb(0 0 0 / 80%);
+}
+
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 769px)  {
+	.section1 {
+    background-color: #ff4800;
+    width: 101%;
+	}
+	.section1-phoneno {
+    margin-left: 182px;
+    margin-top: 12px;
+    color: white
+}
+.section4-border1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ecf2f5;
+    border-radius: 10px;
+    width: 350px;
+    background-color: #ff4800;
+    /*margin-right: 10px;*/
+}
+.section4-border2{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #ecf2f5;;
+	border-radius: 10px;
+	width: 350px;
+	background-color: #ecf2f5;;
+}
+.section4-border3{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #ecf2f5;;
+	border-radius: 10px;
+	width: 350px;
+	background-color: #ecf2f5;
+	margin-left: 305px;
+	    margin-top: 47px;
+}
+.section6-img1-place {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+        margin-left: -29px;
+}
+
+.section7-tittle{
+	    font-size: 38px;
+    font-weight: bold;
+    margin-left: 7px;
+    padding-top: 14px;
+}
+.card{
+	margin-right: 10px;
+}
+.section6-img2-place {
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    margin-left: -24px !important
+    }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 451px)  {
+.section1 {
+    background-color: #ff4800;
+    width: 113%
+}
+.border2 :hover{
+	background-color: #ff4800;
+	color: white;
+}
+.border3 :hover{
+	background-color: #ff4800;
+	color: white;
+}
+.section3{
+	    width: 114%;
+}
+.slider1, .slider2, .slider3{
+	width:100%;
+    height: 516px;
+}
+.section4-border3{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #ecf2f5;;
+	border-radius: 10px;
+	width: 350px;
+	background-color: #ecf2f5;
+	margin-left: 235px;
+	    margin-top: 47px;
+}
+.section4-border1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ecf2f5;
+    border-radius: 10px;
+    width: 350px;
+    background-color: #ff4800;
+    margin-right: 30px;
+}
+.section4-border2{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #ecf2f5;;
+	border-radius: 10px;
+	width: 350px;
+	background-color: #ecf2f5;;
+	   margin-left: 40px;
+}
+.section5{
+position: relative;
+    padding: 96px 0;
+    background: url("https://www.ourlittleroses.org/wp-content/uploads/2021/11/larm-rmah-AEaTUnvneik-unsplash-scaled.jpg") no-repeat center;
+    background-size: cover;
+    z-index: 99;
+        padding-left: 93px;
+            width: 119%;
+}
+.section5::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 112%;
+    height: 100%;
+    background: rgba(21,21,21,.9);
+}
+.section5-tittle {
+    font-size: 28px;
+    color: white;
+    margin-top: 0px;
+    margin-left: -59px;
+}
+.section5-txt {
+    color: #b7b7b7;
+    margin-top: 54px;
+    margin-left: -62px;
+}
+.section5-readmore-btn {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #ff4800;
+    border-radius: 50px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 150px;
+    background-color: #ff4800;
+    margin-left: -65px;
+}
+.section5-img{
+	width:100%; 
+	   margin-top: 109px;
+	    height: 237px;
+}
+.section6-img1{
+	margin-left: 30px;
+}
+.section6-img1-txt{
+	    margin-left: -46px;
+}
+.section6-img1-tittle :hover{
+	text-decoration: underline;
+}
+
+.section6-img1-date{
+text-decoration: none;
+	color: black;
+	font-size: 14px;
+	margin-left: -62px;
+}
+.section6-img1-ptag{
+	font-size:13px;
+	color: #9a9191;
+	    margin-left: -67px;
+	        margin-top: -34px
+}
+.section6-img1-date :hover{
+	text-decoration: underline;
+}
+.section6-img1-place :hover{
+	text-decoration: underline;
+}
+/*.section6-img1-place {
+margin-left:-73px;
+}
+*/
+.section6-donate-btn{
+	border-width: 2px;
+    border-style: solid;
+    border-color: #ff4800;
+    border-radius: 50px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    width: 150px;
+    background-color:#ff4800;
+    /* margin-left: 96px;*/
+}
+.section6-tittle2{
+	font-size: 38px;
+	font-weight: bold;
+    margin-top: 69px;
+    margin-left: 9px;
+}
+.section6-bg	{
+	      background-color: #ecf2f5;
+    height: 500px;
+    padding-top: 40px;
+        width: 137%;
+    margin-left: 3px !important;
+}
+.section6-img2-tittle{
+	text-decoration: none;
+	color: black;
+}
+.section6-img2-tittle :hover{
+	text-decoration: underline;
+}
+
+.section6-img2-date{
+text-decoration: none;
+	color: black;
+	font-size: 14px;
+}
+.section6-img2-place{
+text-decoration: none;
+	color: black;
+	font-size: 14px;
+	margin-left:-31px !important;
+}
+.section6-img2-date :hover{
+	text-decoration: underline;
+}
+.section6-img2-place :hover{
+	text-decoration: underline;
+}
+
+.section6-tittle{
+	font-size: 38px;
+	font-weight: bold;
+    margin-top: 69px;
+    margin-left: 18px;
+}
+.section6-img1-place {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    margin-left: -59px;
+    }
+    .section7-bg{
+	position: relative;
+	background-image: url('cause-bg.jpg.webp');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height:712px;
+	z-index: 99;
+	width: 114%;
+}
+.section7-bg::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background: rgba(232,237,238,.8);
+}
+.section7-tittle {
+    font-size: 38px;
+    font-weight: bold;
+    margin-top: 69px;
+    margin-left: 96px;
+    padding-top: 19px;
+}
+.card{
+	margin-right: 10px;
+}
+.section8-col1{
+	margin-left: 180px;
+}
+.section8-div{
+	    margin-left: 71px;
+}
+.section9 {
+    position: relative;
+    background: url(https://www.ourlittleroses.org/wp-content/uploads/2021/11/larm-rmah-AEaTUnvneik-unsplash-scaled.jpg) no-repeat center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 580px;
+    z-index: 99;
+    width: 114%;
+    }
+    .section8-col2 {
+    width: 165px;
+    margin-top: 38px
+}
+
+}
